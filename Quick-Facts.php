@@ -1,0 +1,306 @@
+<?php $page='About'; ?>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+
+<!-- Meta Tags -->
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<meta name="description" content="StudyPress | Education & Courses HTML Template" />
+<meta name="keywords" content="academy, course, education, education html theme, elearning, learning," />
+<meta name="author" content="ThemeMascot" />
+
+<!-- Page Title -->
+<title>Gyan Sarovar Public School</title>
+
+<link href="MYIMAGE/icon.jpg" rel="shortcut icon" type="image/png">
+
+<!-- Stylesheet -->
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="css/animate.min.css" rel="stylesheet" type="text/css">
+<link href="css/javascript-plugins-bundle.css" rel="stylesheet"/>
+
+<!-- CSS | menuzord megamenu skins -->
+<link href="js/menuzord/css/menuzord.css" rel="stylesheet"/>
+
+<!-- CSS | Main style file -->
+<link href="css/style-main.css" rel="stylesheet" type="text/css">
+<link id="menuzord-menu-skins" href="css/menuzord-skins/menuzord-rounded-boxed.css" rel="stylesheet"/>
+
+<!-- CSS | Responsive media queries -->
+<link href="css/responsive.css" rel="stylesheet" type="text/css">
+<!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
+
+<!-- CSS | Theme Color -->
+<link href="css/colors/theme-skin-color-set1.css" rel="stylesheet" type="text/css">
+
+<!-- external javascripts -->
+<script src="js/jquery.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/javascript-plugins-bundle.js"></script>
+<script src="js/menuzord/js/menuzord.js"></script>
+
+<!-- <link href="css/style.css" rel="stylesheet" type="text/css"> -->
+
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body class="tm-container-1340px has-side-panel side-panel-right">
+<!-- preloader -->
+
+<div id="wrapper" class="clearfix">
+  <!-- Header -->
+  
+  <?php include_once('header.php'); ?>
+
+  <!-- Start main-content -->
+  <div class="main-content-area">
+  
+    
+  
+    <!-- Section: page title -->
+   <section class="page-title layer-overlay overlay-dark-9 section-typo-light bg-img-center" data-tm-bg-img="MYIMAGE/s6.jpg">
+      <div class="container pt-50 pb-50">
+        <div class="section-content">
+          <div class="row">
+            <div class="col-md-12 text-center">
+              <h2 class="title">Quick Facts</h2>
+              <nav class="breadcrumbs" role="navigation" aria-label="Breadcrumbs">
+                <div class="breadcrumbs">
+                  <span><a href="index.php" rel="home">Home</a></span>
+                  <span><i class="fa fa-angle-right"></i></span>
+                  <span><a href="Quick-Facts.php">Quick Facts</a></span>
+				  
+                  
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Section: About -->
+	
+	
+	
+	
+	
+	
+	
+	
+<section class="" data-tm-bg-img="" style="margin-bottom:40px;">
+<div class="container pb-0">
+<div class="section-content">
+<div class="row">
+
+<div class="col-lg-6 col-xl-3" style="border:1px solid #eee">
+<h4><b>In This Section</b></h4>
+<hr>
+
+<div style="border-bottom:1px solid #eee">
+<a href="Gyan-Sarovar-Public-School-Gaya.php" >Overview</a>
+</div> 
+<div style="border-bottom:1px solid #eee" >
+<a href="Mission.php" >Our Mission</a>
+</div>
+<div style="border-bottom:1px solid #eee" >
+<a href="Our-Vision.php" >Our Vision</a>
+</div>
+ 
+<div style="border-bottom:1px solid #eee" >
+<a href="Chairman-Message.php" >Message From Chairman</a>
+</div>
+<div style="border-bottom:1px solid #eee" >
+<a href="Principle-Message.php" >Message From the Principle's Desk</a>
+</div>
+<div>
+<a href="Quick-Facts.php" style="color:#E29AAE">Quick Facts</a>
+</div>
+ 
+ 
+              
+</div>
+
+<div class="col-lg-6 col-xl-9">
+<h3 style="color:#202C45">Quick Facts</h3>
+<hr>
+
+<p>
+GPS Saharsa is the epitome of 21st century education in India. It understands the needs and aspirations of the 
+young budding minds and their parents. Hence the school strives to provide them with ambience and world class 
+infrastructure that will not only fulfil their aspirations but also aid them to become enlightened and responsible global citizens.
+</p>
+ 
+ 
+			  <div class="accordion tm-accordion accordion-classic accordion-theme-colored1" id="accordion500">
+			  
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="heading501">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" 
+					data-bs-target="#collapse501" aria-expanded="true" aria-controls="collapse501">
+                      <strong>Measures Taken to Make Students Fluent in English</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse501" class="accordion-collapse collapse show" aria-labelledby="heading501" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      School endeavours and provides necessary environment to make students fluent in English at the earliest. At GPS Saharsa, we recognize the socio-cultural background of our students, and that is why English is the only means of communication at the school campus. Moreover, motley of opportunities and platforms are provided to each student to enhance their communication skills. School's academic calendar is packed with plethora of activities like morning assembly, news reading, essay writing, poem writing and recitation, scriptures, extempore, speeches, debates, turn coat, quizzes etc. in English. All these activities and competitions provides each student with ample opportunities to upgrade their communication and comprehension skills. In this regard, we seek have introduced abridged form of novels by great writers at a very age to cultivate reading habit amongst the students. GPS Saharsa is equipped with world class infrastructure to make teaching-learning process fun filled and joyful experience.
+                    </div>
+                  </div>
+                </div>
+				
+				
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="heading502">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse502" aria-expanded="false" aria-controls="collapse502">
+                      <strong>Spacious Classrooms</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse502" class="accordion-collapse collapse" aria-labelledby="heading502" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      Each classroom is huge and cross aerated with comfortable furniture that makes teachers and students move freely in a classroom.
+                    </div>
+                  </div>
+                </div>
+				
+				
+                <div class="accordion-item">
+                  <h2 class="accordion-header" id="heading503">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse503" aria-expanded="false" aria-controls="collapse503">
+                      <strong>Encouraging Adaptability</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse503" class="accordion-collapse collapse" aria-labelledby="heading503" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      Considering the vicissitude of life, students are prepared are prepared for the future and they encouraged adaptability through various activities like role play, skits etc.
+                    </div>
+                  </div>
+                </div>
+				
+				<div class="accordion-item">
+                  <h2 class="accordion-header" id="heading503">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse504" aria-expanded="false" aria-controls="collapse503">
+                      <strong>Cross Culture Environment</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse504" class="accordion-collapse collapse" aria-labelledby="heading503" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      Taking into account the secular credential of our country India, we at GPS Saharsa, we provide and support cross culture environment. This culture is manifested by means of celebration of festivals of all the religion with great enthusiasm.
+                    </div>
+                  </div>
+                </div>
+				
+				<div class="accordion-item">
+                  <h2 class="accordion-header" id="heading503">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse505" aria-expanded="false" aria-controls="collapse503">
+                      <strong>Wi-fi campus, e-classrooms, multimedia library and computer labs</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse505" class="accordion-collapse collapse" aria-labelledby="heading503" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      GPS Saharsa makes extensive use technology. The school campus is equipped with wi-fi facility. It has got a multimedia library with thousands of books on variety of topics and subjects. There are two different computer labs for junior section and senior section with hundreds of latest model computers with broadband connection.
+                    </div>
+                  </div>
+                </div>
+				
+				
+				<div class="accordion-item">
+                  <h2 class="accordion-header" id="heading503">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse506" aria-expanded="false" aria-controls="collapse503">
+                      <strong>Extended day facilities</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse506" class="accordion-collapse collapse" aria-labelledby="heading503" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      We cater to needs of slow learners as well as bright students. Extra classes are conducted for the improvement of the slow learners after school hours. Similarly bright ones are mentored for NTSE and various Olympiads.
+                    </div>
+                  </div>
+                </div>
+				
+				
+				<div class="accordion-item">
+                  <h2 class="accordion-header" id="heading503">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse507" aria-expanded="false" aria-controls="collapse503">
+                      <strong>Teacher development programmes</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse507" class="accordion-collapse collapse" aria-labelledby="heading503" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      Regular webinars and workshops are conducted by well qualified resource persons to abreast the teacher with the latest technological and pedagogical development in the field of teaching and learning.. CBSE also conducts workshops at regular interval to enhance the teaching skill the school.
+                    </div>
+                  </div>
+                </div>
+				
+				
+				<div class="accordion-item">
+                  <h2 class="accordion-header" id="heading503">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse508" aria-expanded="false" aria-controls="collapse503">
+                      <strong>Overseas exchange programmes</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse508" class="accordion-collapse collapse" aria-labelledby="heading503" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      GPS Saharsa encourages overseas exchange programme to provide exposure to global education system and to comprehend variegated culture of the different parts of the world.
+                    </div>
+                  </div>
+                </div>
+				
+				<div class="accordion-item">
+                  <h2 class="accordion-header" id="heading503">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse509" aria-expanded="false" aria-controls="collapse503">
+                      <strong>Indoor and outdoor sporting activities</strong>
+                    </button>
+                  </h2>
+                  <div id="collapse509" class="accordion-collapse collapse" aria-labelledby="heading503" data-bs-parent="#accordion500">
+                    <div class="accordion-body">
+                      Games and sports are integral part of school curriculum. For this GPS Saharsa is well equipped with indoor and outdoor sporting activities. It has got many well qualified sports teachers. The indoor facilities include Olympic size swimming pool, two basketball and badminton courts. For outdoor games there is a big lush green field.
+                    </div>
+                  </div>
+                </div>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+              </div>
+
+</div>
+ 
+		  
+</div>
+</div>
+</div>
+            
+</section>   
+
+    
+
+  </div>    
+  
+  
+  <?php include_once('footer.php'); ?>
+  
+  <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
+</div>
+
+
+<script src="js/custom.js"></script>
+
+</body>
+</html>
